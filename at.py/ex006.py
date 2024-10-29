@@ -1,0 +1,7 @@
+v1 = float(input('primeiro valor: '))
+v2 = float(input('segundo valor: '))
+s = (v1 + v2)
+sub = (v1 - v2)
+d = (v1 / v2 )
+m = (v1 * v2 )
+print ('o resultado da soma é {}, \n o resultado da subtração é {} \n o resultado da divisão é {}, \n o resultado da multiplicação é {}.' .format(s, sub, d, m))
